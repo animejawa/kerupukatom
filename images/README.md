@@ -23,6 +23,12 @@ Setiap foto akan menampilkan produk dari sudut pandang yang berbeda:
 | `product-5.jpg` | Dekat / Detail | 450x450px atau lebih |
 | `product-6.jpg` | Tekstur Renyah | 450x450px atau lebih |
 
+### 3. Foto Fasilitas Produksi
+- **File**: `factory.jpg`
+- **Ukuran**: 600x500px atau lebih (landscape)
+- **Tempat**: Di bagian "Tentang Kerupuk Atom" (about section)
+- **Deskripsi**: Foto fasilitas/pabrik produksi kerupuk atom
+
 ## Cara Menambahkan Foto
 
 1. **Siapkan foto Anda** dalam format JPG, PNG, atau WebP

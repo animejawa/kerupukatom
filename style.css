@@ -668,13 +668,24 @@ body {
     font-size: 0.95rem;
 }
 
-.about-placeholder {
-    height: 500px;
-    border-radius: 20px;
+.about-image {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.factory-image {
+    width: 100%;
+    height: auto;
+    max-height: 500px;
+    object-fit: cover;
+    border-radius: 20px;
     box-shadow: var(--shadow-lg);
+    transition: transform 0.3s ease;
+}
+
+.factory-image:hover {
+    transform: scale(1.02);
 }
 
 .contact-content {
